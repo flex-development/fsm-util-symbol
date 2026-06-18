@@ -6,7 +6,7 @@
 [![install size](https://packagephobia.now.sh/badge?p=@flex-development/fsm-util-symbol)](https://packagephobia.now.sh/result?p=@flex-development/fsm-util-symbol)
 [![minified bundle size](https://badgen.net/bundlephobia/min/@flex-development/fsm-util-symbol?cache)](https://bundlephobia.com/package/@flex-development/fsm-util-symbol)
 [![tree shaking suppport](https://badgen.net/bundlephobia/tree-shaking/@flex-development/fsm-util-symbol)](https://bundlephobia.com/package/@flex-development/fsm-util-symbol)
-[![codecov](https://codecov.io/github/flex-development/fsm-util-symbol/graph/badge.svg?token=)](https://codecov.io/github/flex-development/fsm-util-symbol)
+[![codecov](https://codecov.io/github/flex-development/fsm-util-symbol/graph/badge.svg?token=DKEZw55sGM)](https://codecov.io/github/flex-development/fsm-util-symbol)
 [![module type: esm](https://img.shields.io/badge/module%20type-esm-brightgreen)](https://github.com/voxpelli/badges-cjs-esm)
 [![license](https://img.shields.io/github/license/flex-development/fsm-util-symbol.svg)](LICENSE.md)
 [![conventional commits](https://img.shields.io/badge/-conventional%20commits-fe5196?logo=conventional-commits\&logoColor=ffffff)](https://conventionalcommits.org)

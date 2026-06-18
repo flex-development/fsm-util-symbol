@@ -3,4 +3,5 @@
  * @module fsm-util-symbol
  */
 
-export {}
+export { default as chars } from './chars.mts'
+export { default as codes } from './codes.mts'
