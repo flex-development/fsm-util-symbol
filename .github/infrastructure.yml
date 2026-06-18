@@ -180,7 +180,7 @@ repository:
   automated_security_fixes: true
   default_branch: main
   delete_branch_on_merge: true
-  description: finite state machine compiler
+  description: fsm symbol utility
   has_issues: true
   has_projects: true
   has_wiki: false
