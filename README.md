@@ -71,11 +71,22 @@ In browsers with [`esm.sh`][esmsh]:
 
 ## Use
 
-**TODO**: use
+```js
+import { chars, codes, constants, ev } from '@flex-development/fsm-util-symbol'
+
+console.log(chars.at) // '@'
+console.log(codes.at) // 64
+console.log(constants.tabSize) // 2
+console.log(ev.enter) // 'enter'
+```
 
 ## API
 
-**TODO**: api
+This package exports the identifiers `chars`, `codes`, `constants`, and `ev`.\
+There is no default export.
+
+Each identifier is an object mapping strings to values.\
+See the [code](./src/) for the exposed data.
 
 ## Types
 
@@ -102,8 +113,8 @@ Support long-term stability by sponsoring Flex Development.
 
 ## Related
 
-- [`@flex-development/fsm`][fsm] — finite state machine specification
-- [`@flex-development/fsm-compiler`][fsm-compiler] — finite state machine compiler
+- [`@flex-development/fsm`][fsm] — the specification
+- [`@flex-development/fsm-compiler`][fsm-compiler] — finite state machine event compiler
 - [`@flex-development/fsm-parser`][fsm-parser] — finite state machine parser
 
 [esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
