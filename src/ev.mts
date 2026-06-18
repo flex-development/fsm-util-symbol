@@ -6,11 +6,11 @@
 /**
  * Event type dictionary.
  *
- * @enum {'enter' | 'ext'}
+ * @enum {'enter' | 'exit'}
  */
 const ev = {
   enter: 'enter',
   exit: 'exit'
-}
+} as const
 
 export default ev
