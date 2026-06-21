@@ -1,3 +1,13 @@
+## [1.1.0](https://github.com/flex-development/mark-util-symbol/compare/1.0.1...1.1.0) (2026-06-21)
+
+### :robot: Continuous Integration
+
+- [[`35d1c9e`](https://github.com/flex-development/mark-util-symbol/commit/35d1c9e5a3c1f76995db82db2626bae9da8801cc)] **deps:** Bump actions/checkout from 6.0.3 to 7.0.0 ([#7](https://github.com/flex-development/mark-util-symbol/issues/7))
+
+### :sparkles: Features
+
+- [[`7857493`](https://github.com/flex-development/mark-util-symbol/commit/78574932ef112e9a8d2a182b4618243af1dac539)] **codes:** `bos`, `sof`
+
 ## [1.0.1](https://github.com/flex-development/mark-util-symbol/compare/1.0.0...1.0.1) (2026-06-18)
 
 ### :bug: Fixes
@@ -29,6 +39,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`4e6bfa1`](https://github.com/flex-development/mark-util-symbol/commit/4e6bfa1eba5ca91f7e41fbe351ea84b40962cf39)] project rename
+
 
 
 
