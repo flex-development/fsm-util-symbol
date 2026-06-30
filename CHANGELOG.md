@@ -1,3 +1,25 @@
+## [2.0.0](https://github.com/flex-development/mark-util-symbol/compare/1.1.0...2.0.0) (2026-06-30)
+
+### ⚠ BREAKING CHANGES
+
+- [`codes`] `bos`, `break`, `empty`, `sof`
+
+### :package: Build
+
+- [[`f02e028`](https://github.com/flex-development/mark-util-symbol/commit/f02e028a8bb3c11c104bfc4ce82e60043ec8aff0)] **deps-dev:** Bump @arethetypeswrong/cli from 0.18.3 to 0.18.4 ([#11](https://github.com/flex-development/mark-util-symbol/issues/11))
+- [[`5ba5d1a`](https://github.com/flex-development/mark-util-symbol/commit/5ba5d1adf64c6f5f07ba676ba56f718c3ad4e1ed)] **deps-dev:** bump dprint from 0.54.0 to 0.55.1
+- [[`0c8e7d0`](https://github.com/flex-development/mark-util-symbol/commit/0c8e7d07a9ea6694c443b6f556b9ec5accca2f6c)] **deps-dev:** Bump rollup from 4.62.0 to 4.62.2 ([#10](https://github.com/flex-development/mark-util-symbol/issues/10))
+- [[`82ee5f8`](https://github.com/flex-development/mark-util-symbol/commit/82ee5f8961b6e3ff024f4e0630e40665bbb9a389)] **deps-dev:** Bump the commitlint group across 1 directory with 2 updates ([#13](https://github.com/flex-development/mark-util-symbol/issues/13))
+
+### :robot: Continuous Integration
+
+- [[`617fead`](https://github.com/flex-development/mark-util-symbol/commit/617feada0c63941c17c49e159bb6a2af789d2428)] **deps:** Bump actions/cache from 5.0.5 to 6.0.0 ([#12](https://github.com/flex-development/mark-util-symbol/issues/12))
+- [[`ff99e70`](https://github.com/flex-development/mark-util-symbol/commit/ff99e70ee2f5ca7b0e111c80bd3fdd5feeb53c73)] **deps:** Bump actions/cache from 6.0.0 to 6.1.0 ([#14](https://github.com/flex-development/mark-util-symbol/issues/14))
+
+### :mechanical_arm: Refactors
+
+- [[`a76d00a`](https://github.com/flex-development/mark-util-symbol/commit/a76d00a80bfa1fad2feb75293c326b2547a99014)] [`codes`] `bos`, `break`, `empty`, `sof`
+
 ## [1.1.0](https://github.com/flex-development/mark-util-symbol/compare/1.0.1...1.1.0) (2026-06-21)
 
 ### :robot: Continuous Integration
@@ -39,6 +61,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`4e6bfa1`](https://github.com/flex-development/mark-util-symbol/commit/4e6bfa1eba5ca91f7e41fbe351ea84b40962cf39)] project rename
+
 
 
 
