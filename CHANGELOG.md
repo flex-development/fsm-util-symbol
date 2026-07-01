@@ -1,3 +1,21 @@
+## [3.0.0](https://github.com/flex-development/mark-util-symbol/compare/2.0.0...3.0.0) (2026-07-01)
+
+### ⚠ BREAKING CHANGES
+
+- [`codes`] `bos`, `break`, `empty`, `sof`
+
+### :package: Build
+
+- [[`3c11fb0`](https://github.com/flex-development/mark-util-symbol/commit/3c11fb080b8cab5ab90c88224c9b18bd35ad6c10)] **deps-dev:** Bump the commitlint group with 2 updates ([#19](https://github.com/flex-development/mark-util-symbol/issues/19))
+
+### :sparkles: Features
+
+- [[`0c72f87`](https://github.com/flex-development/mark-util-symbol/commit/0c72f8715c9e5a1445178c18867632fb7b257363)] [`codes`] add micromark codes
+
+### :wastebasket: Reverts
+
+- [[`6343805`](https://github.com/flex-development/mark-util-symbol/commit/634380586843e56ac4089a127971604fc9841c0f)] [`codes`] `bos`, `break`, `empty`, `sof`
+
 ## [2.0.0](https://github.com/flex-development/mark-util-symbol/compare/1.1.0...2.0.0) (2026-06-30)
 
 ### ⚠ BREAKING CHANGES
@@ -61,6 +79,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`4e6bfa1`](https://github.com/flex-development/mark-util-symbol/commit/4e6bfa1eba5ca91f7e41fbe351ea84b40962cf39)] project rename
+
 
 
 
