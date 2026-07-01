@@ -3,6 +3,7 @@
  * @module mark-util-symbol/tests/unit/codes
  */
 
+import * as micromark from 'micromark-util-symbol'
 import testSubject from '../codes.mts'
 
 describe('unit:codes', () => {
@@ -35,5 +36,9 @@ describe('unit:codes', () => {
   it('should be character code dictionary', () => {
     expect(testSubject).to.have.property('break').be.NaN
     expect(testSubject).toMatchSnapshot()
+  })
+
+  it('should be superset of micromark.codes', () => {
+    expect(testSubject).toMatchObject(micromark.codes)
   })
 })
