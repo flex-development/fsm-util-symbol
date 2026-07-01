@@ -23,10 +23,10 @@
 const codes = {
   eof: null, // end of file; alias for `eos`
   eos: null, // end of stream
-  bos: Number.POSITIVE_INFINITY, // start of stream
-  sof: Number.POSITIVE_INFINITY, // start of file; alias for `bos`
-  empty: 13_000_000, // empty string chunk
-  break: Number.NaN, // stream break
+  bos: -1000, // start of stream
+  sof: -1000, // start of file; alias for `bos`
+  empty: -999, // empty string chunk
+  break: -13, // stream break
   vcr: -5, // virtual carriage return (\r)
   carriageReturn: -5, // virtual carriage return (\r)
   vlf: -4, // virtual line feed (\n)

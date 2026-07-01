@@ -34,7 +34,6 @@ describe('unit:codes', () => {
   })
 
   it('should be character code dictionary', () => {
-    expect(testSubject).to.have.property('break').be.NaN
     expect(testSubject).toMatchSnapshot()
   })
 
